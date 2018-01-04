@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:title="@string/mani_menu_Groupchat"
+        android:icon="@drawable/icon_add_group"
+        app:showAsAction="never">
+    </item>
+
+    <item android:title="@string/mani_menu_Addfriend"
+        android:icon="@mipmap/icon_add_friend"
+        app:showAsAction="never">
+    </item>
+
+    <item android:title="@string/mani_menu_Scan"
+        android:icon="@drawable/icon_menu_scan"
+        app:showAsAction="never">
+    </item>
+
+    <item android:title="@string/mani_menu_pay"
+        android:icon="@drawable/icon_add_group"
+        app:showAsAction="never"></item>
+
+</menu>
